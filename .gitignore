@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+main
+consumer
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
+node_modules/
+.env
+.env.*
+*/yarn-error.log
+dist/
+.vscode/
